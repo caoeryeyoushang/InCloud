@@ -1,2 +1,4 @@
-www.tjskq.com:443
-www.tjskq.com:80
+www.king95.com:443
+www.king95.com:80
+www.king95.com:8080
+www.king95.com:8443
